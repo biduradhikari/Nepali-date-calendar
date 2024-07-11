@@ -12,6 +12,4 @@ This was developed in excel 16.76 (Office 2021) and there might be compatibility
 
 Let me know if you use it.
 
-Things are locked down to prevent accidental changes. There's no password. If anyone asks, it is 123.
-
-<img width="1157" alt="Screenshot 2023-08-16 at 9 09 44 PM" src="https://github.com/biduradhikari/Nepali-date-calendar/assets/85147139/fcafe1c5-348d-4cfb-b421-e78c5f232ccd">
+Things are locked down to prevent accidental changes. There's no password.
